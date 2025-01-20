@@ -1,0 +1,70 @@
+\begin{thebibliography}{10}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\else
+  \urlstyle{same}\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \DeclareUrlCommand\doi{\urlstyle{rm}}
+  \def\eprint#1#2{#2}
+\else
+  \def\doi#1{\href{https://doi.org/#1}{\nolinkurl{#1}}}
+  \let\eprint\href
+\fi
+
+\bibitem[刘琰\ 等(2021)刘琰, 李雪, 乔肖翠, 葛思敏, and 郑丙辉]{LiuZhongGuoShuiYuanWeiWuRanXianZhuangJiFengXianFangKongJianYi2021}
+刘琰, 李雪, 乔肖翠, 等.
+\newblock 中国水源微污染现状及风险防控建议\allowbreak[J/OL].
+\newblock 环境污染与防治, 2021, 43\allowbreak (9): 1205-1208.
+\newblock DOI: \doi{10.15985/j.cnki.1001-3865.2021.09.022}.
+
+\bibitem[熊小萍\ 等(2020)熊小萍, 龚剑, 林粲源, 周永顺, 杜勇明, and 吴翠琴]{XiongZhuJiangSanJiaoZhouHeLiuYinYongShuiYuanZhongDeHuanJingNeiFenMiGanRaoWuJiQiFengXian2020}
+熊小萍, 龚剑, 林粲源, 等.
+\newblock 珠江三角洲河流饮用水源中的环境内分泌干扰物及其风险\allowbreak[J/OL].
+\newblock 生态环境学报, 2020, 29\allowbreak (5): 996-1004.
+\newblock DOI: \doi{10.16258/j.cnki.1674-5906.2020.05.016}.
+
+\bibitem[赵丽红\ 等(2021)赵丽红 and 郭佳艺]{ZhaoMoFenChiJiShuZaiZaiShengShuiZhongDeYingYongJiMoWuRanYanJiuJinZhan2021}
+赵丽红, 郭佳艺.
+\newblock 膜分离技术在再生水中的应用及膜污染研究进展\allowbreak[J].
+\newblock 科学技术与工程, 2021, 21\allowbreak (19): 7874-7883.
+
+\bibitem[周芸\ 等(2023)周芸 and 尹晓芳]{ZhouNaLuMoShuiChuLiJiShuZaiJingShuiGongYiZhongDeYingYong2023}
+周芸, 尹晓芳.
+\newblock 纳滤膜水处理技术在净水工艺中的应用\allowbreak[J/OL].
+\newblock 智能城市, 2023, 9\allowbreak (2): 106-108.
+\newblock DOI: \doi{10.19301/j.cnki.zncs.2023.02.031}.
+
+\bibitem[李红宾\ 等(2016)李红宾, 石文英, 朱红英, 王薇, 苏玉恒, and 张海霞]{LiNaiWuRanXingFuHeNaLuMoZhiBeiJiShuYanJiuJinZhan2016}
+李红宾, 石文英, 朱红英, 等.
+\newblock 耐污染性复合纳滤膜制备技术研究进展\allowbreak[J/OL].
+\newblock 水处理技术, 2016, 42\allowbreak (6): 1-7.
+\newblock DOI: \doi{10.16796/j.cnki.1000-3770.2016.06.001}.
+
+\bibitem[张显球\ 等(2006)张显球, 侯小刚, 张林生, and 吕锡武]{ZhangMianXiangRuanHuaShuiChuLiDeNaLuMoFenChiJiShu2006}
+张显球, 侯小刚, 张林生, 等.
+\newblock 面向软化水处理的纳滤膜分离技术\allowbreak[J].
+\newblock 膜科学与技术, 2006\allowbreak (2): 64-67+74.
+
+\bibitem[宋跃飞\ 等(2017)宋跃飞, 赵果, 李铁梅, and 秦文博]{SongJinShuiShuiZhiDuiNaLuMoKuXianShuiRuanHuaDeFenChiXingNeng2017}
+宋跃飞, 赵果, 李铁梅, 等.
+\newblock 进水水质对纳滤膜苦咸水软化的分离性能\allowbreak[J].
+\newblock 化工学报, 2017, 68\allowbreak (8): 3133-3140.
+
+\bibitem[孔繁鑫(2016)]{KongShenTouMoDuiWeiLiangYouJiWuDeQuChuYuChuanZhiTeXingYanJiu2016}
+孔繁鑫.
+\newblock 渗透膜对微量有机物的去除与传质特性研究\allowbreak[D].
+\newblock 清华大学, 2016.
+
+\bibitem[秦源\ 等(2022)秦源, 于水利, 顾正阳, and 李平]{QinMOFsGaiXingNaLuMoQuChuYinYongShuiZhongWeiLiangYouJiWuJinZhan2022}
+秦源, 于水利, 顾正阳, 等.
+\newblock MOFs改性纳滤膜去除饮用水中微量有机物进展\allowbreak[J/OL].
+\newblock 中国给水排水, 2022, 38\allowbreak (4): 44-48.
+\newblock DOI: \doi{10.19853/j.zgjsps.1000-4602.2022.04.008}.
+
+\bibitem[秦超凡\ 等(2018)秦超凡 and 吴自成]{QinMoFenChiJiShuZaiJiaYongJingShuiJiZhongDeYingYong2018}
+秦超凡, 吴自成.
+\newblock 膜分离技术在家用净水机中的应用\allowbreak[J/OL].
+\newblock 科技创新导报, 2018, 15\allowbreak (8): 129-130.
+\newblock DOI: \doi{10.16660/j.cnki.1674-098X.2018.08.129}.
+
+\end{thebibliography}
